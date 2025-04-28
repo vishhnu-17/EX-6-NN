@@ -1,5 +1,5 @@
-<H3>NAME: Aaron H</H3>
-<H3>REGISTER NO: 212223040001</H3>
+<H3>NAME: Kurapati Vishnu Vardhan Reddy</H3>
+<H3>REGISTER NO: 212223040103</H3>
 <H3>EX. NO.6</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  
